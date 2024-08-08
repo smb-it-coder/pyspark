@@ -1,1 +1,16 @@
 
+Data Bricks,
+data factory,
+Azure Data Factory,
+Spark,
+Python,
+ETL,
+OLAP,
+OLTP,
+Data Pipeline,
+Big Data,
+Data Lake,
+Delta, 
+Pyspark,
+Azure Databricks,
+SQL Azure
